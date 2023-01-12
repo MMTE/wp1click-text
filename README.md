@@ -20,3 +20,16 @@ a huge Cons in my opinion about shared hosting companies is that if the Database
 so you are responsible for keeping safe the Database. on the other side in Containers and orchestrated solutions each tenant has, it's own database. so compromising a container or database wouldn't usually impacts other users.
 
 
+-----
+it's bad idea....
+I'm looking deeper and I think multi user shared hosting is kind of outdated aproach maybe
+if containers get lighter and lighter then it would be affordable to not use shared hosting? 🤔
+
+----
+its all about when a users escapes the privilages of it's own
+how bad it is?
+----
+if user gains access to root system then all shared users data is compromized 
+
+
+
