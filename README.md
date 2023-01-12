@@ -32,4 +32,4 @@ how bad it is?
 if user gains access to root system then all shared users data is compromized 
 
 
-
+ok it seems linux is not created for jailing users so users can see other folders but they could not have access to files 
